@@ -8,7 +8,7 @@ account_Num = 99999230
 password = "0230"
 checking_balance = 1000.00
 saving_Balance = 1000.00
-transcations = []
+transactions = []
 
 #function to authenticate user with specific username and password.
 def authenticate_user():
